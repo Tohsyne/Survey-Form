@@ -1,0 +1,22 @@
+.container-fluid{
+	background: url("cover image.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+	color:white;
+	width: auto;
+	height: 100%;
+	margin: 0 auto;
+	font-family: 'Poppins', sans-serif;
+	font-size: 18px;
+}
+h1, h5{
+	text-align:center;
+}
+#form{
+	background-color: rgba(0, 0, 26, 0.8);
+	
+}
+span{
+	font-family: hopp
